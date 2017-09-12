@@ -4,7 +4,7 @@
 <p align="left">3145140596</p> 
 <p align="left">Mobile Computing</p>           
 <p align="center" font face="arial">Review Game Piano Tiles 2</p></font>
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Piano_Tiles_2_logo.png" align="center" width="50%"></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Piano_Tiles_2_logo.png" align="center" width="30%"></p>
 
 <p align="justify">Latar Belakang </p>
 

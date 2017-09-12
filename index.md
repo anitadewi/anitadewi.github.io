@@ -3,7 +3,7 @@
 <p align="left">Anita Dewi Sukmawati</p> 
 <p align="left">3145140596</p> 
 <p align="left">Mobile Computing</p>           
-<p align="center" font face="arial">Review Game Piano Tiles 2</p></font>
+<p align="center" font face="arial">Review Game Piano Tiles 2</p>
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Piano_Tiles_2_logo.png" align="center" width="30%"></p>
 
 <p align="justify">Latar Belakang </p>
@@ -14,15 +14,15 @@
 
 <p align="justify">Cara game ini dimainkan adalah dengan menekan Tiles yang berwana hitam dan diiringi dengan irama musik piano dimana kita sebagai pengguna seakan merasakan sedang memainkan sebuah piano yang asli. Sebagai pengguna game tersebut, kita hanya diperbolehkan menekan bagian Tile yang berwarna hitam saja dan jangan sampai menekan Tiles yang berwarna putih dikarenakan jika kita tidak menekan Tiles yang berwarna hitam satu Tiles pun maka kita akan kalah dalam game tersebut. Saat kita mendapatkan score yang banyak atau sudah tinggi maka tempo lagu dan kecepatan Tiles akan berjalan dan bertambah. Perbedaan antara Piano Tiles 1 dan Piano Tiles 2 adalah dalam versi terbaru kita dapat memilih lagu yang akan dimainkan. Pada lagu yang tersedia sudah memiliki tingkatan-tingkatan kesulitannya masing-masing.dan berbeda anatar 1 lagu dengan lagu yang lain. Seperti dari lagu dengan tempo yang lambat sampai dengan lagu dengan tempo yang cepat. Pada Piano Tiles 2 terdapat fitur Energy Supply yaitu kesempatan untuk bermain, jika Energy Supply nya itu habis maka pemain harus menunggu beberapa mnit untuk dapat bermain kembali atau pemain dapat membelinya dngan cara menukar Coin. karna satu kali bermain , akan menghilangkan 2 point.</p>
 
-<p align="center"><img src="http://www.4appsapk.com/wp-content/uploads/2015/08/com.cmplay.tiles2-0.jpg" align="center" width="50%"></p>
+<p align="center"><img src="http://www.4appsapk.com/wp-content/uploads/2015/08/com.cmplay.tiles2-0.jpg" align="center" width="40%"></p>
 
 <p align="justify">Game ini mengandalkan kelincahan dalam bermain piano , kita harus cepat dan tepat. game ini membuat pemain merasakan seperti layaknya seorang pianis profesional dengan pianonya yang merdu, banyak daftar isi lagu lagu khusus piano yang tersedia di pilihan daftar piano nya. Dengan melatih satu per satu lagu hingga level mahkota maksimal, membuat sainganmu susah untuk mengalahkanmu.</p>
 
-<p align="center"><img src="http://a1.mzstatic.com/us/r30/Purple7/v4/45/b0/0f/45b00f9a-16e7-791c-b1f8-edb4cd0189b2/screen1136x1136.jpeg" align="center" width="50%"></p>
+<p align="center"><img src="http://a1.mzstatic.com/us/r30/Purple7/v4/45/b0/0f/45b00f9a-16e7-791c-b1f8-edb4cd0189b2/screen1136x1136.jpeg" align="center" width="40%"></p>
 
 <p align="justify">Dengan fitur invite friends, kamu bisa bermain dan bersaing merasakan geregetnya bermain tinggi-tinggian nilai yang dapat kamu raih. Semakin banyak teman yang kamu ajak untuk bermain semakin ketat persaingannya.</p>
 
-<p align="center"><img src="https://img.utdstc.com/screen/android/thumb/piano-tiles-2-1.jpg" align="center" width="50%"></p>
+<p align="center"><img src="https://img.utdstc.com/screen/android/thumb/piano-tiles-2-1.jpg" align="center" width="40%"></p>
 
 <p align="justify">Pada game Piano Tiles 2 ini terdapat beberapa Mode yaitu :
 •	Classic Mode
@@ -40,7 +40,7 @@ Marketing :
 Pemain bisa membeli lagu lagu yang memang seharusnya di beli oleh anda sebagai gamer. memang alunan piano di game ini sangat lah mujarab untuk menghilangkan rasa stress di karenakan aktifitas sehari hari anda semua. mendapatkan Endless mode di setiap kita akan bermain ini game, (yaitu saat dimana kita mendapatkan uang di game ini)
 </p>
 
-<p align="center"><img src="http://ndl.mgccw.com/mu/2015/12/11/ss/635315ccc6c14cdea00cfaf5d951a06e_small.png" align="center" width="50%"></p>
+<p align="center"><img src="http://ndl.mgccw.com/mu/2015/12/11/ss/635315ccc6c14cdea00cfaf5d951a06e_small.png" align="center" width="40%"></p>
 
 <p align="justify">Piano Tiles 2 ini adalah salah satu permainan terbaik di 13 negara, yaitu termasuk Indonesia, Meksik,  Australia, Korea, Hongkong, Taiwan,  Jepang, India, Inggris Perancis, Jerman, Russia, Brasil dan terpilih sebagai Best of 2016 Google Play Store. Piano Tiles 2 adalah nomor 1 dalam sub-kategori permainan Arcade yang diambil data dari mobile analytics platform App Annie. 
 Permainan Piano Tiles (Don’t Tap the White Tile) yang pertama menacapai kesuksesan luar biasa dengan lebih dari 300 juta unduhan. Piano Tiles 2 tetap setia dengan keajaiban resep versi sebelumnya dan juga menambahkan mode Hall yang kompetitif, desain yang diperbaharui, dan dengan pilihan lagu yang hampir tidak pernah ada habis-habisnya, termasuk lagu orisinil dan lagu-lagu klasik yang mendunia dan menjadi favorit para pecinta lagu klasik. Sebagai tambahan, tim produk Cheetah Mobile sedang berkolaborasi dengan musisi lokal di Indonesia. Tim produk juga sedang mengerjakan cara-cara baru untuk berinteraksi dengan Indonesia dengan menambahkan elemen social pada permainan ini untuk membuatnya lebih interaktif. Pada intinya Cheetah Mobile sudah berhasil membuat Game yang berbasis musik ini menjadi sangat menarik dan menantang sehingga mampu bersaing di pasar penjualan game dan berhasil menarik banyak gamers untuk bermain permainan ini bahkan membuat Game yang membutuhkan konsentrasi ini menjadi Best Populer Arcade Game di Tahun 2016. Jadi bagaimana? Tertarikah kalian untuk memainkan Game Piano Tiles 2 yang seru ini.
@@ -54,8 +54,8 @@ Dan juga digame ini terdapat banyak menu di gamenya , dimana bisa memilih yang m
 
 <p align="justify">Tips dan trik :</p>
 
-<p align="justify">•	Dalam memainkan game tersebut sebagai pemain kita harus cepat dan tepat 
-•	Harus teliti dalam melihan Tiles yang akan di pencet
+<p align="justify">•	Dalam memainkan game tersebut sebagai pemain kita harus cepat dan tepat; 
+•	Harus teliti dalam melihan Tiles yang akan di pencet;
 •	jika ada kotak kuning saat anda bermain lebih baik jangan di tap , karna hanya akan mengecoh permainan anda</p>
 
 </body>
